@@ -1,0 +1,32 @@
+.main {
+  background-color: #333333;
+}
+.con {
+  width: 90%;
+  margin: auto;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  color: white;
+  font-size: 3rem;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3rem;
+  padding: 10px 15px;
+  display: inline-block;
+}
+nav a:hover {
+  background-color: white;
+  color: #333333;
+}
+.input-group {
+  width: 50%;
+}
+.input-group .asdfg {
+  width: 100%;
+}

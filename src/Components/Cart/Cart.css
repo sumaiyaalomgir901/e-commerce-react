@@ -1,0 +1,16 @@
+.cart table {
+  margin: 20px auto;
+  padding: 15px;
+  border-radius: 10px;
+  width: 300px;
+  background-color: rgb(204, 204, 204);
+  text-align: start;
+}
+button {
+  color: white;
+  background-color: gray;
+  padding: 10px 40px;
+  border-radius: 10px;
+  border: 1px solid rgb(163, 163, 163);
+  cursor: pointer;
+}

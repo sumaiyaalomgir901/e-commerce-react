@@ -1,0 +1,6 @@
+.products-details {
+  width: 90%;
+  margin: 30px auto;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
